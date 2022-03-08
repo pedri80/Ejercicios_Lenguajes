@@ -1,2 +1,2 @@
 # Ejercicios_Lenguajes
-Ejercicios imperativos 1
+Ejercicios 
