@@ -14,11 +14,14 @@ func main() {
 	for i := 0; i < len(cadenaO); i++ {
 		//Letra coincidente a la palabra
 		if cadenaO[i] == palabra[indice] {
+			//Verifica si es la palabra buscada
 			indice++
+			//Encuentra la palabra
 			if indice == len(palabra) {
 				encontrado = true
 				break
 			}
+			//Si no es la misma se reinicia
 		} else {
 			indice = 0
 		}
