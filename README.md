@@ -1,2 +1,3 @@
 # Ejercicios_Lenguajes
-Semana 4 - Listo
+Semana 3 - Listo
+Semana 4 - En prgreso
