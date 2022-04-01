@@ -4,7 +4,7 @@
 sumList([], 0).
 %Detecta L como lista
 sumList([L], S) :-
-    %Recorre la lista de derecha a izquierda
+    %Recorre la lista de izquierda a derecha
     sumList([L|_], S2),
     %Realiza la suma del elemento atrapado
     S is L+S2.
