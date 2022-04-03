@@ -1,4 +1,4 @@
 # Ejercicios_Lenguajes
 Semana 3 - Listo
 Semana 4 - Listo
-Semana 6 - En proceeso
+Semana 6 - Listo
